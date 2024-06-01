@@ -76,11 +76,11 @@ Combining BERT's tokenization, attention mechanisms, and transfer learning to im
    
 <img src="Images/1.png" alt="s1" style="width: 800px; display: block; margin-left: auto; margin-right: auto;">
 
-3. Input a question can be in any human written form with typos too:
+2. Input a question can be in any human written form with typos too:
    
 <img src="Images/2.png" alt="s2" style="width: 800px; display: block; margin-left: auto; margin-right: auto;">
 
-4. Finally, retrieves the Answer and Context along with it:
+3. Finally, retrieves the Answer and Context along with it:
 
 <img src="Images/3.png" alt="s3" style="width: 800px; display: block; margin-left: auto; margin-right: auto;">
 
