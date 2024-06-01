@@ -35,7 +35,7 @@ Despite advancements in NLP, current QA systems face challenges in contextual un
 
 ### Workflow Diagram
 
-<img src="Images/Workflow.png" alt="Workflow Diagram" style="width: 80%;">
+<img src="Images/WORKFLOW_NP.png" alt="Workflow Diagram" style="width: 80%;">
 
 ### Architecture
 
